@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Télé50" tvg-logo="assets/images/Logo-Tele50.jpg" group-title="Music",Télé50
+https://stream-195689.castr.net/63dea568fbc24884706157bb/live_4e3fc1404c6e11f0845ad3177da07776/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="Radio Okapi" tvg-logo="assets/images/logo-radio-okapi.png" group-title="News",Radio Okapi
+http://rs1.radiostreamer.com:8000/stream
+#EXTINF:-1 tvg-name="Top Congo FM" tvg-logo="assets/images/Logo-TopCongo.png" group-title="Music",Top Congo FM
+https://mpbradio.ice.infomaniak.ch/topcongo3-128.mp3
+#EXTINF:-1 tvg-name="RFI" tvg-logo="assets/images/Logo-RFI.png" group-title="News",RFI
+https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3

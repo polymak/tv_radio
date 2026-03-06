@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="RTNC" tvg-logo="https://example.com/logos/rtnc.png" group-title="National",RTNC
+https://example.com/streams/rtnc.m3u8
+#EXTINF:-1 tvg-name="Canal Futur TV" tvg-logo="https://example.com/logos/canalfutur.png" group-title="Private",Canal Futur TV
+https://example.com/streams/canalfutur.m3u8
+#EXTINF:-1 tvg-name="AZANDIO TV" tvg-logo="https://example.com/logos/azandio.png" group-title="Private",AZANDIO TV
+https://example.com/streams/azandio.m3u8
